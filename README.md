@@ -5,5 +5,8 @@
 # README test
 
 - The lasagna is a lie.
-- So is this repository.
-- And this is another update!
+
+# About
+
+This is the readme file for the recipes html folder.
+
